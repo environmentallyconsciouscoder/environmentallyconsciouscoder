@@ -1,4 +1,3 @@
-[![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=environmentallyconsciouscoder)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/environmentallyconsciouscoder/github-readme-stat))
 
 - 👋 Hi, I’m @environmentallyconsciouscoder
 - 👀 I’m interested in ...
