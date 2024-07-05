@@ -30,9 +30,6 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL (MySQL)" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
   <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
@@ -75,18 +72,13 @@
   <a href="https://databricks.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="Azure Databricks" width="40" height="40"/>
   </a>
-  <a href="https://azure.microsoft.com/en-us/services/data-factory/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure Data Factory" width="40" height="40"/>
-  </a>
   <a href="https://azure.microsoft.com/en-us/services/storage/data-lake-storage/" target="_blank" rel="noopener noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure Data Lake" width="40" height="40"/>
   </a>
   <a href="https://spark.apache.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Apache Spark" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
+
 </p>
 
 
