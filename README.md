@@ -57,15 +57,6 @@
   <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
   </a>
-  <a href="https://aws.amazon.com/lambda/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/amazon_lambda/amazon_lambda-icon.svg" alt="AWS Lambda" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/amazon_dynamodb/amazon_dynamodb-icon.svg" alt="DynamoDB" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/api-gateway/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/amazon_api_gateway/amazon_api_gateway-icon.svg" alt="API Gateway" width="40" height="40"/>
-  </a>
   <a href="https://aws.amazon.com/cloudwatch/" target="_blank" rel="noopener noreferrer">
     <img src="https://www.vectorlogo.zone/logos/amazon_cloudwatch/amazon_cloudwatch-icon.svg" alt="CloudWatch" width="40" height="40"/>
   </a>
