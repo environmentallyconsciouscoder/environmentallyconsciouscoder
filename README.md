@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm James</h1>
-<h3 align="center">A software Engineer based in United Kingdom</h3>
+<h3 align="center">A Software Engineer based in United Kingdom</h3>
 
 - I have over 4 years of experience as a Full Stack Developer in several startups, which has allowed me to acquire a diverse set of technical and non-technical skills. After taking a career break, I am now seeking a Mid-Junior level software engineer position.
   
