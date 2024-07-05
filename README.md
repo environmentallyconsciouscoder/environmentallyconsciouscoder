@@ -3,12 +3,6 @@
 
 - I have over 4 years of experience as a Full Stack Developer in several startups, which has allowed me to acquire a diverse set of technical and non-technical skills. After taking a career break, I am now seeking a Mid-Junior level software engineer position.
 
-----
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jcct100/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james-t" height="30" width="40" /></a>
-<a href="https://twitter.com/friendlycoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="james-t" height="30" width="40" /></a>
-</p>
 ------
 
 <h3 align="left">Technologies and Tools:</h3>
