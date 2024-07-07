@@ -3,6 +3,9 @@
 
 - I have over 4 years of experience as a Full Stack Developer in several startups, which has allowed me to acquire a diverse set of technical and non-technical skills. After taking a career break, I am now seeking a Mid-Junior level software engineer position.
 
+- I have experience and exposure to the following technologies: Node.js, Generative AI, Pandas, Machine Learning, Jest, React (hooks, context API, Redux),
+CI/CD, Docker, TDD, Unit testing, OAuth, TypeScript, JUnit, Java, Spring Boot, MySQL, NoSQL, Flutter, GraphQL, Neo4j, ETL, Azure Databricks, AWS Serverless, Python, and Fast API.
+
 ------
 
 <h3 align="left">Technologies and Tools:</h3>
