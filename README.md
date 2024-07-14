@@ -13,7 +13,7 @@
 
 - As I prepare to return to work, I am eager to find a steady job where I can settle down and contribute to the company's success. I am enthusiastic about making a positive impact at work, helping customers solve problems, collaborating with a new team, and learning from each other.
 
-- For examples of my past work projects, please visit my website https://bit.ly/3Y0FXGg . 
+- For examples of my past work projects, please visit my website https://create-react-app-three-self-49.vercel.app/ . 
 
 ------
 
