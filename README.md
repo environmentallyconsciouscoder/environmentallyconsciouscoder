@@ -70,7 +70,7 @@ CI/CD, Docker, TDD, Unit testing, OAuth, TypeScript, JUnit, Java, Spring Boot, M
 
 ----
 
-[<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=environmentallyconsciouscoder&show_icons=true&locale=en&layout=compact" alt="environmentallyconsciouscoder" /></p>]
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=environmentallyconsciouscoder&show_icons=true&locale=en&layout=compact" alt="environmentallyconsciouscoder" /></p> -->
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=environmentallyconsciouscoder&show_icons=true&locale=en" alt="environmentallyconsciouscoder" /></p>
