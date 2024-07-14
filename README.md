@@ -1,10 +1,19 @@
 <h1 align="center">Hi 👋, I'm James</h1>
 <h3 align="center">A Software Engineer based in United Kingdom</h3>
 
-- I have over 4 years of experience as a Full Stack Developer in several startups, which has allowed me to acquire a diverse set of technical and non-technical skills.
-  
-- I have experience and exposure to the following technologies: Node.js, Generative AI, Pandas, Machine Learning, Jest, React (hooks, context API, Redux),
-CI/CD, Docker, TDD, Unit testing, OAuth, TypeScript, JUnit, Java, Spring Boot, MySQL, NoSQL, Flutter, GraphQL, Neo4j, ETL, Azure Databricks, AWS Serverless, Python, and Fast API.
+- My name is James. I am a Full Stack Developer with over 4 years of experience in building web and mobile applications. I have experience in designing and building applications from monoliths to microservices architecture, and I have worked with AWS serverless, MVVM, and MVC applications.
+
+- I have used a wide range of technologies and tools, including Node.js, React (Hooks, Context API, Redux), OAuth, TypeScript, Java, Spring Boot, MySQL, NoSQL, GraphQL, Flutter, Neo4j, Azure Databricks, Python, and FastAPI.
+
+- I advocate for TDD and have experience in unit testing using frameworks such as jsdom, Jest, and JUnit. I prefer to keep my code DIY, applying SOLID principles and adopting good design patterns (structural, creational, and behavioral). Additionally, I manage my workflow using CI/CD and Docker. I possess a good understanding of data structures and algorithms.
+
+- Throughout my career, I have a proven track record of managing and building projects. I consistently adopt a business-oriented approach to software development, ensuring I understand users' and data requirements and work agilely to meet their demands. I have experience working independently and in cross-functional teams (both technical and non-technical members) to deliver solutions. Additionally, I founded my own company where I built MVPs, pitched ideas, secured grants, hired and led teams, and managed multiple stakeholders including investors, board members, teams, and alpha testing (at venues such as O2 Stadium, Harvey Nichols, Francis Crick Institute, and more).
+
+- During my career break, I enrolled in a bootcamp to learn machine learning and generative AI, which I have been integrating into software development. Currently, I am also learning Tailwind CSS.
+
+- As I prepare to return to work, I am eager to find a steady job where I can settle down and contribute to the company's success. I am enthusiastic about making a positive impact at work, helping customers solve problems, collaborating with a new team, and learning from each other.
+
+- For examples of my past work projects, please visit my website https://bit.ly/3Y0FXGg . 
 
 ------
 
