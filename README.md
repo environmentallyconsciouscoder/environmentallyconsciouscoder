@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm James</h1>
 <h3 align="center">A Software Engineer based in United Kingdom</h3>
 
-- My name is James. I am a Full Stack Developer with over 4 years of experience in building web and mobile applications. I have experience in designing and building applications from monoliths to microservices architecture, and I have worked with AWS serverless, MVVM, and MVC applications.
-
 - I have used a wide range of technologies and tools, including Node.js, React (Hooks, Context API, Redux), OAuth, TypeScript, Java, Spring Boot, MySQL, NoSQL, GraphQL, Flutter, Neo4j, Azure Databricks, Python, and FastAPI.
 
 <!-- - I advocate for TDD and have experience in unit testing using frameworks such as jsdom, Jest, and JUnit. I prefer to keep my code DIY, applying SOLID principles and adopting good design patterns (structural, creational, and behavioral). Additionally, I manage my workflow using CI/CD and Docker. I possess a good understanding of data structures and algorithms. -->
