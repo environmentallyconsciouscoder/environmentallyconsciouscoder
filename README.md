@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm James</h1>
-<h3 align="center">A Software Engineer based in United Kingdom</h3>
+<h3 align="center">A Software Engineer/Data Scientist based in United Kingdom</h3>
 
 - I have used a wide range of technologies and tools, including 𝐍𝐨𝐝𝐞.𝐣𝐬, 𝐑𝐞𝐚𝐜𝐭 (𝐇𝐨𝐨𝐤𝐬, 𝐂𝐨𝐧𝐭𝐞𝐱𝐭 𝐀𝐏𝐈, 𝐑𝐞𝐝𝐮𝐱), 𝐎𝐀𝐮𝐭𝐡, 𝐓𝐲𝐩𝐞𝐒𝐜𝐫𝐢𝐩𝐭, 𝐉𝐚𝐯𝐚, 𝐒𝐩𝐫𝐢𝐧𝐠 𝐁𝐨𝐨𝐭, 𝐌𝐲𝐒𝐐𝐋, 𝐍𝐨𝐒𝐐𝐋, 𝐆𝐫𝐚𝐩𝐡𝐐𝐋, 𝐅𝐥𝐮𝐭𝐭𝐞𝐫, 𝐍𝐞𝐨4𝐣 & 𝐏𝐲𝐭𝐡𝐨𝐧.
 
@@ -11,7 +11,7 @@
 
 <!-- - As I prepare to return to work, I am eager to find a steady job where I can settle down and contribute to the company's success. I am enthusiastic about making a positive impact at work, helping customers solve problems, collaborating with a new team, and learning from each other. -->
 
-- For examples of my past work projects, please visit my website https://create-react-app-three-self-49.vercel.app/ . 
+<!-- - For examples of my past work projects, please visit my website https://create-react-app-three-self-49.vercel.app/ . -->
 
 ------
 
