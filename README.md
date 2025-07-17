@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm James</h1>
 <!--  <h3 align="center">A Software Engineer/Data Scientist based in United Kingdom</h3>  -->
 
-I have over 5 years of experience in software development. My current tech stack includes 𝐍𝐨𝐝𝐞.𝐣𝐬, 𝐍𝐞𝐱𝐭.𝐣𝐬, 𝐑𝐞𝐚𝐜𝐭 (𝐇𝐨𝐨𝐤𝐬, 𝐂𝐨𝐧𝐭𝐞𝐱𝐭 𝐀𝐏𝐈, 𝐑𝐞𝐝𝐮𝐱, 𝐑𝐞𝐚𝐜𝐭 𝐐𝐮𝐞𝐫𝐲), 𝐓𝐚𝐢𝐥𝐰𝐢𝐧𝐝 𝐂𝐒𝐒, 𝐎𝐀𝐮𝐭𝐡, 𝐓𝐲𝐩𝐞𝐒𝐜𝐫𝐢𝐩𝐭, 𝐅𝐚𝐬𝐭𝐢𝐟𝐲, 𝐭𝐑𝐏𝐂, 𝐍𝐨𝐒𝐐𝐋, 𝐆𝐫𝐚𝐩𝐡𝐐𝐋, 𝐑𝐄𝐒𝐓𝐟𝐮𝐥 𝐀𝐏𝐈𝐬, 𝐓𝐃𝐃, 𝐒𝐒𝐓 (𝐒𝐞𝐫𝐯𝐞𝐫𝐥𝐞𝐬𝐬 𝐒𝐭𝐚𝐜𝐤), 𝐅𝐚𝐬𝐭 𝐀𝐏𝐈, 𝐑𝐚𝐬𝐚, 𝐏𝐲𝐭𝐡𝐨𝐧 𝐚𝐧𝐝 𝐀𝐖𝐒.
+Hey I’m James — an experienced software developer with a focus on full-stack development. My current stack includes 𝐍𝐨𝐝𝐞.𝐣𝐬, 𝐍𝐞𝐱𝐭.𝐣𝐬, 𝐑𝐞𝐚𝐜𝐭 (𝐇𝐨𝐨𝐤𝐬, 𝐂𝐨𝐧𝐭𝐞𝐱𝐭 𝐀𝐏𝐈, 𝐑𝐞𝐝𝐮𝐱, 𝐑𝐞𝐚𝐜𝐭 𝐐𝐮𝐞𝐫𝐲), 𝐓𝐚𝐢𝐥𝐰𝐢𝐧𝐝 𝐂𝐒𝐒, 𝐎𝐀𝐮𝐭𝐡, 𝐓𝐲𝐩𝐞𝐒𝐜𝐫𝐢𝐩𝐭, 𝐅𝐚𝐬𝐭𝐢𝐟𝐲, 𝐭𝐑𝐏𝐂, 𝐍𝐨𝐒𝐐𝐋, 𝐆𝐫𝐚𝐩𝐡𝐐𝐋, 𝐑𝐄𝐒𝐓𝐟𝐮𝐥 𝐀𝐏𝐈𝐬, 𝐓𝐃𝐃, 𝐒𝐒𝐓 (𝐒𝐞𝐫𝐯𝐞𝐫𝐥𝐞𝐬𝐬 𝐒𝐭𝐚𝐜𝐤), 𝐅𝐚𝐬𝐭 𝐀𝐏𝐈, 𝐑𝐚𝐬𝐚, 𝐏𝐲𝐭𝐡𝐨𝐧 𝐚𝐧𝐝 𝐀𝐖𝐒.
+
+I learned how to code 8 years ago and have since worked on a wide range of projects across startups and teams. I take a business-first approach to development and enjoy collaborating across disciplines to deliver real value.
+
+Currently, I’m focused on expanding my expertise in AWS cloud services as I prepare for the Solutions Architect Associate certification, which I’m documenting online to share my learning journey.
+
+I also have experience building a company, where I developed MVPs, secured grants, led a team, and worked with stakeholders at venues including the O2 Arena, Harvey Nichols, and the Francis Crick Institute.
 
 <!-- - I advocate for TDD and have experience in unit testing using frameworks such as jsdom, Jest, and JUnit. I prefer to keep my code DIY, applying SOLID principles and adopting good design patterns (structural, creational, and behavioral). Additionally, I manage my workflow using CI/CD and Docker. I possess a good understanding of data structures and algorithms. -->
 
