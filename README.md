@@ -5,7 +5,7 @@ Hey I’m James — an experienced software developer with a focus on full-stack
 
 I learned how to code 8 years ago and have since worked on a wide range of projects across startups and teams. I take a business-first approach to development and enjoy collaborating across disciplines to deliver real value.
 
-I also have experience building a company, where I developed MVPs, secured grants, led a team, and worked with stakeholders at venues including the O2 Arena, Harvey Nichols, and the Francis Crick Institute.
+<!-- - I also have experience building a company, where I developed MVPs, secured grants, led a team, and worked with stakeholders at venues including the O2 Arena, Harvey Nichols, and the Francis Crick Institute.  -->
 
 <!-- - I advocate for TDD and have experience in unit testing using frameworks such as jsdom, Jest, and JUnit. I prefer to keep my code DIY, applying SOLID principles and adopting good design patterns (structural, creational, and behavioral). Additionally, I manage my workflow using CI/CD and Docker. I possess a good understanding of data structures and algorithms. -->
 
