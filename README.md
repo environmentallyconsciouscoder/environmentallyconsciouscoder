@@ -1,4 +1,74 @@
-<h1 align="center">Hi 👋, I'm James</h1>
+### Hi there 👋, my name is **James Tang**
+#### Software Engineer | Full Stack Engineer
+
+I am a passionate Software Engineer and Full Stack Engineer with a focus on building scalable, efficient, and reliable systems. I specialize in end-to-end testing, API development, cloud infrastructure management, and CI/CD pipeline optimization.
+
+---
+
+### 🛠️ **Tech Stack and Expertise:**
+
+# Modern Full-Stack Application
+
+A cutting-edge web application built with TypeScript, React, and AWS Amplify.
+
+## 🚀 Features
+
+- **Type-Safe Development** with TypeScript
+- **Server-Side Rendering** with Next.js
+- **Cloud-Native Architecture** on AWS
+- **UI** with Tailwind CSS and Radix UI
+- **Advanced Data Tables**
+- **Form Validation** with Zod schemas
+- **Authentication & Authorization**
+- **Real-time Data** with GraphQL
+
+## 🛠️ Tech Stack
+
+### **Languages & Frameworks**
+- **TypeScript** - Type-safe JavaScript
+- **JavaScript** - Core programming language
+- **Next.js** - React framework with SSR
+- **React** - UI library
+- **AWS Amplify (Gen 2)** - Full-stack cloud platform
+
+### **UI & Styling**
+- **Tailwind CSS** - Utility-first CSS framework
+- **Radix UI** - Unstyled, accessible component primitives
+- **clsx** - Conditional className builder
+- **tailwind-merge** - Merge Tailwind classes
+- **class-variance-authority** - Type-safe variant props
+
+### **Forms & Validation**
+- **react-hook-form** - Performant forms management
+- **Zod** - TypeScript-first schema validation
+
+### **Cloud & DevOps**
+- **AWS Amplify Gen 2** - Next-gen AWS development platform
+- **AWS CDK v2** - Cloud Development Kit
+- **AWS Cognito** - User authentication
+- **AWS AppSync/Data** - GraphQL API & real-time data
+- **AWS S3** - File storage
+- **AWS Lambda** - Serverless functions
+- **GitHub Actions** - CI/CD pipelines
+
+### **Databases**
+- **Amplify Data** - DynamoDB with GraphQL
+
+---
+---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=environmentallyconsciouscoder&show_icons=true&locale=en&layout=compact" alt="environmentallyconsciouscoder" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=environmentallyconsciouscoder&show_icons=true&locale=en" alt="environmentallyconsciouscoder" /></p>
+
+<div align='center'>
+<h2> 🏆 GitHub Trophies </h2>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=environmentallyconsciouscoder" alt="environmentallyconsciouscoder" /></a> </p>
+
+
+<!-- <h1 align="center">Hi 👋, I'm James</h1>
 <!--  <h3 align="center">A Software Engineer/Data Scientist based in United Kingdom</h3>  -->
 
 Hey I’m James — an experienced software developer with a focus on full-stack development. My current stack includes 𝐍𝐨𝐝𝐞.𝐣𝐬, 𝐍𝐞𝐱𝐭.𝐣𝐬, 𝐑𝐞𝐚𝐜𝐭 (𝐇𝐨𝐨𝐤𝐬, 𝐂𝐨𝐧𝐭𝐞𝐱𝐭 𝐀𝐏𝐈, 𝐑𝐞𝐝𝐮𝐱, 𝐑𝐞𝐚𝐜𝐭 𝐐𝐮𝐞𝐫𝐲), 𝐓𝐚𝐢𝐥𝐰𝐢𝐧𝐝 𝐂𝐒𝐒, 𝐎𝐀𝐮𝐭𝐡, 𝐓𝐲𝐩𝐞𝐒𝐜𝐫𝐢𝐩𝐭, 𝐅𝐚𝐬𝐭𝐢𝐟𝐲, 𝐭𝐑𝐏𝐂, 𝐍𝐨𝐒𝐐𝐋, 𝐆𝐫𝐚𝐩𝐡𝐐𝐋, 𝐑𝐄𝐒𝐓𝐟𝐮𝐥 𝐀𝐏𝐈𝐬, 𝐓𝐃𝐃, 𝐒𝐒𝐓 (𝐒𝐞𝐫𝐯𝐞𝐫𝐥𝐞𝐬𝐬 𝐒𝐭𝐚𝐜𝐤), 𝐅𝐚𝐬𝐭 𝐀𝐏𝐈, 𝐑𝐚𝐬𝐚, 𝐏𝐲𝐭𝐡𝐨𝐧 𝐚𝐧𝐝 𝐀𝐖𝐒.
@@ -76,7 +146,7 @@ I learned how to code 8 years ago and have since worked on a wide range of proje
     <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Apache Spark" width="40" height="40"/>
   </a>
 
-</p>
+</p> -->
 
 
 ----
