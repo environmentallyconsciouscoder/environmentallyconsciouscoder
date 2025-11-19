@@ -55,8 +55,5 @@ I am a passionate Software Engineer and Full Stack Engineer with a focus on buil
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=environmentallyconsciouscoder&show_icons=true&locale=en" alt="environmentallyconsciouscoder" /></p>
 
 <div align='center'>
-<h2> 🏆 GitHub Trophies </h2>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=environmentallyconsciouscoder" alt="environmentallyconsciouscoder" /></a> </p>
 
 ---
