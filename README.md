@@ -1,4 +1,4 @@
-### Hi there 👋, my name is **James Tang**
+### Hi there 👋, my name is **James T**
 #### Software Engineer | Full Stack Engineer
 
 I am a passionate Software Engineer and Full Stack Engineer focused on building scalable, efficient, and user-centric web applications. I thrive on architecting robust systems, from the back-end API to the front-end user interface, with a strong emphasis on type safety, modern tooling, and cloud-native principles.
